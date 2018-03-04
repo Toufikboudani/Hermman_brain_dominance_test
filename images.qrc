@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>ONe.png</file>
+        <file>fac.png</file>
+        <file>yot.png</file>
+        <file>of.png</file>
+        <file>OK.png</file>
+        <file>OK2.png</file>
+        <file>OK3.png</file>
+        <file>OK4.png</file>
+        <file>on.png</file>
+        <file>del.png</file>
+        <file>del1.png</file>
+        <file>del2.png</file>
+        <file>botom.png</file>
+        <file>top.png</file>
+        <file>add.png</file>
+        <file>Save2.png</file>
+        <file>cancel.png</file>
+        <file>RestoreDefaults.png</file>
+        <file>exit.png</file>
+        <file>BackZ.png</file>
+        <file>FirstZ.png</file>
+        <file>LastZ.png</file>
+        <file>NextZ.png</file>
+        <file>warning.png</file>
+        <file>images.png</file>
+        <file>Print.png</file>
+        <file>hbd_test.png</file>
+        <file>hbd_test.ico</file>
+        <file>archive_button.png</file>
+        <file>newInvoice.png</file>
+        <file>qwst.png</file>
+        <file>change.png</file>
+        <file>EyeNo.png</file>
+        <file>Copy.png</file>
+        <file>Movlast.png</file>
+        <file>MovbotonForst.png</file>
+        <file>Movtop.png</file>
+        <file>Movboton.png</file>
+        <file>Movtop2.png</file>
+        <file>Movtop3.png</file>
+        <file>Movtop4.png</file>
+        <file>Movboton4.png</file>
+        <file>Movboton3.png</file>
+        <file>Movboton2.png</file>
+        <file>comboboxpng.png</file>
+    </qresource>
+    <qresource prefix="/text">
+        <file>Currency.Cur</file>
+        <file>dataHBD.txt</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>ah-manal-black.ttf</file>
+        <file>AraESNawar-Regular.ttf</file>
+        <file>digital display tfb.ttf</file>
+        <file>jazeera.ttf</file>
+    </qresource>
+</RCC>

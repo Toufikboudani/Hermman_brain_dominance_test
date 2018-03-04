@@ -1,0 +1,5 @@
+#include "windows.h"
+
+IDI_ICON1 ICON DISCARDABLE "hbd_test.ico"
+
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "hbd_test.exe.manifest"
